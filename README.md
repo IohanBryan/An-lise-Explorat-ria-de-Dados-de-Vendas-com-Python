@@ -69,25 +69,6 @@ Essas visualizações facilitam a interpretação dos dados e auxiliam na identi
 
 ---
 
-## ▶️ Como Executar o Projeto
-
-1. Clone este repositório
-2. Instale as dependências:
-
-```bash
-pip install pandas matplotlib openpyxl
-```
-
-3. Execute o script:
-
-```bash
-python Automação.py
-```
-
-4. Os gráficos serão salvos automaticamente na pasta `graficos`
-
----
-
 ## 📌 Conclusão
 
 Este projeto representa um **exemplo básico, porém completo**, de um fluxo de análise de dados com Python. Ele demonstra habilidades fundamentais como automação, análise exploratória e visualização, sendo uma excelente base para projetos mais avançados com **Power BI**, **SQL** ou **Dashboards interativos**.
